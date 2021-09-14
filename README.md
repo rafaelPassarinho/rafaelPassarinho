@@ -10,5 +10,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelPassarinho&show_icons=true&theme=synthwave&show_owner=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelPassarinho&layout=compact&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelPassarinho&layout=compact&theme=synthwave&hide=Makefile" />
 </a>
