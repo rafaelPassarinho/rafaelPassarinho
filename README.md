@@ -4,7 +4,7 @@
 * :mortar_board: Undergraduate student of [Computer Science for Federal University of Goiás (UFG) - Goiânia, Brasil](https://inf.ufg.br/p/30138-ciencia-da-computacao)
 * :books: I'm currently learning Python, ANNs, Web Design and Blender
 * 😄 Pronouns: He/Him
-* INFJ
+* 🎨 INFJ
 * :stars: Fun fact: enjoys :open_book:, :video_camera:, 📸, :video_game:, :volleyball:, :running_man:
 ##
 <a href="https://github.com/anuraghazra/github-readme-stats">
