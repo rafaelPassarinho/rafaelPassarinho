@@ -1,7 +1,7 @@
-## Hello, I'm Rafael! 👋
+## Hello, I'm Rafa! 👋
 
 #### A little about me🙋‍♂️:
-* :mortar_board: Computer Science graduate student at [Federal University of Goiás (UFG) - Goiânia, Brasil](https://inf.ufg.br/p/30138-ciencia-da-computacao)
+* :mortar_board: Computer Science graduate at [Federal University of Goiás (UFG) - Goiânia, Brasil](https://inf.ufg.br/p/30138-ciencia-da-computacao)
 * :books: I'm currently learning Python, ANNs, Web Design and Blender
 * 😄 Pronouns: He/Him
 * 🎨 INFJ
